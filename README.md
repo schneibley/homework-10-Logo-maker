@@ -42,23 +42,22 @@ Example
 When running the application, you might see:
 
 $ node index.js
+
 Enter up to three characters: ABC
+
 Enter text color (keyword or hex): blue
+
 Choose a shape:
   ( ) circle
   ( ) triangle
   ( ) square
 > circle
 Enter shape color (keyword or hex): red
+> 
 Generated logo.svg
-The generated logo.svg file will look like this:
 
-xml
-Copy code
-<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="150" cy="100" r="50" fill="red" />
-    <text x="150" y="130" fill="blue" text-anchor="middle" font-size="30">ABC</text>
-</svg>
+
+
 ## Testing
 Prerequisites
 Ensure jest is installed as a development dependency:
