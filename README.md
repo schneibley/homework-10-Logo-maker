@@ -22,6 +22,7 @@ git clone git@github.com:schneibley/homework-10-Logo-maker.git
 
 ### Install Dependencies:
 npm install inquirer@8.2.4
+
 npm install jest
 
 
