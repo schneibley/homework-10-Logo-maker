@@ -38,7 +38,7 @@ Shape: Choose a shape from 'circle', 'triangle', or 'square'.
 Shape Color: Specify the color for the shape (using a color keyword or hex code).
 Output: The application will generate a file named logo.svg in the current directory.
 
-Example
+### Example
 When running the application, you might see:
 
 $ node index.js
@@ -51,22 +51,25 @@ Choose a shape:
   ( ) circle
   ( ) triangle
   ( ) square
-> circle
+
 Enter shape color (keyword or hex): red
-> 
+
 Generated logo.svg
 
 
 
 ## Testing
-Prerequisites
+Prerequisites:
+
 Ensure jest is installed as a development dependency:
 
 
 npm install --save-dev jest
 ### Run Tests
 To execute the tests, run:
+
 npm test
+
 This will run the tests defined in the __tests__ directory to verify that the generated SVG file contains the correct content.
 
 ## Contributing
