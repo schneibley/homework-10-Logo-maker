@@ -8,7 +8,7 @@ Customizable Logo: Choose from different shapes and specify text and colors.
 SVG Output: Generates a scalable SVG file.
 
 ## Demo
-Watch a demo of how to use the README generator [here]([https://drive.google.com/file/d/163BHbJYzd6Oywlw2gPCkTDo4ZnGGVIPh/preview](https://drive.google.com/file/d/1wtOkR3dpawXWZMvTS26qM-41dDHrCOis/view)).
+Watch a demo of how to use the README generator [here]([https://drive.google.com/file/d/163BHbJYzd6Oywlw2gPCkTDo4ZnGGVIPh/preview](https://drive.google.com/file/d/1wtOkR3dpawXWZMvTS26qM-41dDHrCOis/view).
 
 ## Installation
 ### Prerequisites
