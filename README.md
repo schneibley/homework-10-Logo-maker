@@ -7,12 +7,15 @@ Interactive CLI: Uses inquirer for user input.
 Customizable Logo: Choose from different shapes and specify text and colors.
 SVG Output: Generates a scalable SVG file.
 
+## Demo
+Watch a demo of how to use the README generator [here]([https://drive.google.com/file/d/163BHbJYzd6Oywlw2gPCkTDo4ZnGGVIPh/preview](https://drive.google.com/file/d/1wtOkR3dpawXWZMvTS26qM-41dDHrCOis/view)).
+
 ## Installation
 ### Prerequisites
 
 Ensure that you have Node.js installed on your machine.
 
-###Steps
+### Steps
 Clone the Repository:
 
 git clone git@github.com:schneibley/homework-10-Logo-maker.git
